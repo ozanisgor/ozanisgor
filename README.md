@@ -51,5 +51,6 @@
 
 <br />
 <br />
+<br />
 
 <img align="left" alt="ozanisgor's GitHub Stats" src="https://github-readme-stats-ozanisgor.vercel.app/api?username=ozanisgor&show_icons=true&hide_border=true" />
