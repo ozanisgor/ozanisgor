@@ -33,6 +33,8 @@
   [<img align="left" alt="ozanisgor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ozanisgor/)
   [<img align="left" alt="ozanisgor | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://rogsinazo.medium.com/)
 
+<br/>
+
 ---
 
 <img align="left" alt="ozanisgor's GitHub Stats" src="https://github-readme-stats-ozanisgor.vercel.app/api?username=ozanisgor&show_icons=true&hide_border=true&count_private=true&title_color=3078ca&icon_color=3078ca" />
