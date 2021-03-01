@@ -11,7 +11,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ozanisgor/ozanisgor/blob/master/image.gif">
 </a>
 
-- 🔭 I’m currently working on <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> **side projects**
+- 🔭 I’m currently working on <img height="32" width="32" color="#F7DF1E" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> **side projects**
 - 🌱 I’m currently learning many things but mostly **JavaScript** <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 - 🥅 2021 Goals: Learning **React** <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
 - 🤔 I’m looking for help with **Entry-Level opportunities**
