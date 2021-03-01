@@ -33,12 +33,22 @@
 <br/>
 <br/>
 
+<div>
+  <h1 align="right">
+    :mag_right: Find me:
+  </h1>
+  
+  [<img align="left" alt="ozanisgor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ozanisgor.netlify.app/)
+  [<img align="left" alt="isgorOzan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/IsgorOzan)
+  [<img align="left" alt="ozanisgor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ozanisgor/)
+  [<img align="left" alt="ozanisgor | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://rogsinazo.medium.com/)
+
+</div
+
+
 ### :mag_right: Find me:
 
-[<img align="left" alt="ozanisgor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ozanisgor.netlify.app/)
-[<img align="left" alt="isgorOzan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/IsgorOzan)
-[<img align="left" alt="ozanisgor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ozanisgor/)
-[<img align="left" alt="ozanisgor | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://rogsinazo.medium.com/)
+
 
 <br />
 <br />
