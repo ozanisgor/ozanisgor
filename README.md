@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-<div align="right">
+<div align="center">
   
   ### :mag_right: Find me:
   
