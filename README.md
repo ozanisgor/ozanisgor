@@ -24,6 +24,8 @@
 - 🤔 I’m looking for help with **Entry-Level opportunities**
 - <img src="https://github.com/ozanisgor/ozanisgor/blob/master/wand.png" width="20px" height="20px"/> Hogwarts House : **Ravenclaw** <img width="20px" height="20px" src="https://github.com/ozanisgor/ozanisgor/blob/master/ravenclaw.png"> Patronus : **Rottweiler** <img src="https://github.com/ozanisgor/ozanisgor/blob/master/Rottweiler.png" width="20px" height="20px"/>
 
+---
+
 <br/>
 
 <img align="right" alt="ozanisgor's GitHub Stats" src="https://github-readme-stats-ozanisgor.vercel.app/api?username=ozanisgor&show_icons=true&hide_border=true&count_private=true&title_color=3078ca&icon_color=3078ca" />
