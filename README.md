@@ -33,6 +33,12 @@
 <br/>
 <br/>
 
+
+
+<br />
+<br />
+<br />
+
 <div align="center">
   
   ### :mag_right: Find me:
@@ -43,12 +49,6 @@
   [<img align="center" alt="ozanisgor | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://rogsinazo.medium.com/)
 
 </div>
-
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ### :rocket: Languages and Tools:
 
