@@ -14,6 +14,8 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ozanisgor/ozanisgor/blob/master/image.gif">
 </a>
 
+<br/>
+<br/>
 - 🔭 I’m currently working on <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> **side projects**
 - 🌱 I’m currently learning many things but mostly <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 - 🥅 Short-term Goals: Learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -31,3 +33,8 @@
 [<img align="left" alt="ozanisgor | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://rogsinazo.medium.com/)
 
 <br />
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
