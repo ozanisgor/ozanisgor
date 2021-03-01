@@ -52,6 +52,4 @@
 <br />
 <br />
 
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-ozanisgor.vercel.app/api?username=ozanisgor&show_icons=true&hide_border=true" />
+<img align="left" alt="ozanisgor's GitHub Stats" src="https://github-readme-stats-ozanisgor.vercel.app/api?username=ozanisgor&show_icons=true&hide_border=true" />
