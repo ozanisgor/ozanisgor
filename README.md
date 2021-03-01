@@ -40,6 +40,7 @@
 <br />
 <br />
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -60,7 +61,7 @@
 
 ---
 
-### Blog posts
+### 📕 My Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
