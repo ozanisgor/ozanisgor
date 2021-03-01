@@ -37,6 +37,9 @@
 [<img align="left" alt="ozanisgor | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://rogsinazo.medium.com/)
 
 <br />
+<br />
+<br />
+<br />
 
 ### Languages and Tools:
 
