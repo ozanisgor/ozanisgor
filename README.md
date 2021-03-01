@@ -35,7 +35,7 @@
 
 <div align="right">
   
-  ###:mag_right: Find me:
+  :mag_right: Find me:
   
   [<img align="left" alt="ozanisgor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ozanisgor.netlify.app/)
   [<img align="left" alt="isgorOzan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/IsgorOzan)
