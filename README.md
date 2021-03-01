@@ -32,6 +32,7 @@
 
 <br/>
 <br/>
+
 ### :mag_right: Find me:
 
 [<img align="left" alt="ozanisgor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ozanisgor.netlify.app/)
