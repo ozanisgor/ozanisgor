@@ -25,7 +25,7 @@
 
 <br/>
 
-<img align="right" alt="ozanisgor's GitHub Stats" src="https://github-readme-stats-ozanisgor.vercel.app/api?username=ozanisgor&show_icons=true&hide_border=true" />
+<img align="right" alt="ozanisgor's GitHub Stats" src="https://github-readme-stats-ozanisgor.vercel.app/api?username=ozanisgor&show_icons=true&hide_border=true&count_private=true" />
 
 <br/>
 
@@ -57,11 +57,10 @@
 
 <br />
 <br />
-<br />
 
 ---
 
-# Blog posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
