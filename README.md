@@ -23,7 +23,7 @@
 - 🤔 I’m looking for help with **Entry-Level opportunities**
 - <img src="https://github.com/ozanisgor/ozanisgor/blob/master/wand.png" width="20px" height="20px"/> Hogwarts House : **Ravenclaw** <img width="20px" height="20px" src="https://github.com/ozanisgor/ozanisgor/blob/master/ravenclaw.png"> Patronus : **Rottweiler** <img src="https://github.com/ozanisgor/ozanisgor/blob/master/Rottweiler.png" width="20px" height="20px"/>
 
-### :mag_right: Find me:
+     ### :mag_right: Find me:
   [<img align="left" alt="ozanisgor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ozanisgor.netlify.app/)
   [<img align="left" alt="isgorOzan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/IsgorOzan)
   [<img align="left" alt="ozanisgor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ozanisgor/)
