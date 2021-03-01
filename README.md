@@ -1,7 +1,7 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; ! 
   <br/>
-  I am [Ozan], a frontEnd web developer.
+  I am [Ozan](https://ozanisgor.netlify.app/), a frontEnd web developer.
   <a target="_blank">
     <img src="https://github.com/ozanisgor/ozanisgor/blob/master/Hi.gif" width="40px" />
   </a>
