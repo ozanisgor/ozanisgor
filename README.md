@@ -15,7 +15,6 @@
 </a>
 
 <br/>
-<br/>
 - 🔭 I’m currently working on <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> **side projects**
 - 🌱 I’m currently learning many things but mostly <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 - 🥅 Short-term Goals: Learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
