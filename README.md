@@ -25,7 +25,7 @@
 
 <br/>
 
-<img align="right" alt="ozanisgor's GitHub Stats" src="https://github-readme-stats-ozanisgor.vercel.app/api?username=ozanisgor&show_icons=true&hide_border=true&count_private=true&title_color=90a0d5" />
+<img align="right" alt="ozanisgor's GitHub Stats" src="https://github-readme-stats-ozanisgor.vercel.app/api?username=ozanisgor&show_icons=true&hide_border=true&count_private=true&title_color=3078ca" />
 
 <br/>
 
