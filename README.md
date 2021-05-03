@@ -17,10 +17,9 @@
 
 <br/>
 
-- :computer: I’m currently working on <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> **side projects**
-- :books: I’m currently learning many things but mostly <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-- :pushpin: Short-term goals: Learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> and <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-- 🤔 I’m looking for help with **Entry-Level opportunities**
+- :computer: I’m working at **NEAR Protocol**
+- :books: I’m currently learning many things but mostly **Blockchain**
+- :pushpin: Short-term goals: Learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"> and <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
 - <img src="https://github.com/ozanisgor/ozanisgor/blob/master/wand.png" width="20px" height="20px"/> Hogwarts House : **Ravenclaw** <img width="20px" height="20px" src="https://github.com/ozanisgor/ozanisgor/blob/master/ravenclaw.png"> Patronus : **Rottweiler** <img src="https://github.com/ozanisgor/ozanisgor/blob/master/Rottweiler.png" width="20px" height="20px"/>
 
 <br/>
