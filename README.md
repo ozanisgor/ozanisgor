@@ -17,15 +17,13 @@
 
 <br/>
 
-- :books: I’m currently learning many things but mostly **MERN**
-- :pushpin: Short-term goals: Learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> and <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-- <img src="https://github.com/ozanisgor/ozanisgor/blob/master/wand.png" width="20px" height="20px"/> Hogwarts House : **Ravenclaw** <img width="20px" height="20px" src="https://github.com/ozanisgor/ozanisgor/blob/master/ravenclaw.png"> Patronus : **Rottweiler** <img src="https://github.com/ozanisgor/ozanisgor/blob/master/Rottweiler.png" width="20px" height="20px"/>
+- :books: I’m currently learning many things but mostly **Next.js** and **React.js**
+- :pushpin: Short-term goals: Learning **Node.js** <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
 <br/>
 
    ### :mag_right: Find me:
   [<img align="left" alt="ozanisgor" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ozanisgor.netlify.app/)
-  [<img align="left" alt="isgorOzan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/IsgorOzan)
   [<img align="left" alt="ozanisgor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ozanisgor/)
   [<img align="left" alt="ozanisgor | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://rogsinazo.medium.com/)
 
@@ -40,11 +38,11 @@
 ### :rocket: Languages and Tools:
 
 <code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img alt="next.js" width="26px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" /></code>
+<code><img alt="react.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img alt="typeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
 <code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
 <code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
